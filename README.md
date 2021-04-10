@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working on g1id.fr, an educational website to learn development, computer science and a lot of things.
+* 📫 How to reach me: hugo.ben80000@gmail.com
+* 🌐 My Website (in French) : www.hugo-benabdelhak.com
+
+
 <!--
 **Efkat/Efkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
