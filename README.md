@@ -10,7 +10,8 @@
 
 My name is Hugo Benabdelhak, a IT Student passionate by Web Develoment from France. 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://ynscorp.services/wp-content/uploads/2020/11/alphatestersanimation2.gif" width="500" height="320" />
   
 * 🔭 I’m currently working on g1id.fr, an educational website to learn development, computer science and a lot of things.
 * 📫 How to reach me: hugo.ben80000@gmail.com
