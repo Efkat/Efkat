@@ -1,8 +1,9 @@
+```php
 <?php
 
 namespace App\Developer;
 
-final class HugoBenabdelhak extends AbstractDeveloper
+final class SymfonyDeveloper extends AbstractDeveloper
 {
   use SymfonyTrait;
   use TwigTrait;
@@ -21,3 +22,4 @@ final class HugoBenabdelhak extends AbstractDeveloper
     return new LinkedInPage("https://www.linkedin.com/in/hbenabdelhak/");
   }
 }
+```
